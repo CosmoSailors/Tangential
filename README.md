@@ -1,6 +1,6 @@
 # Tangential (Experimental)
 
-A Location-based event triggering Android application, that enables users to schedule tasks and triggers based on their real-time location. 
+A Location-based event triggering android app, that enables users to schedule tasks and triggers based on their real-time location. 
 The app will utilize **Android Foreground Services** to periodically check the user's location and execute predefined actions accordingly.  
 
 ## How It Works
