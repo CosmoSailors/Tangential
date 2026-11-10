@@ -35,12 +35,6 @@ Add, toggle, and remove locations for triggering following events
 - The app will notify you when you reach the selected place.
 - Dismiss alarms using the "Dismiss" button.
 
-### Screenshots
-
-<img src="./screenshots/permReqdScreen.png" alt="Description" width="250" height="530"> <img src="./screenshots/permissionScreen.png" alt="Description" width="250" height="530">
-<img src="./screenshots/radiusLocationSelection.png" alt="Description" width="250" height="530"> <img src="./screenshots/multipleLocationList.png" alt="Description" width="250" height="530">
-<img src="./screenshots/locationWithDropDownInfo.png" alt="Description" width="250" height="530"> <img src="./screenshots/showAllLocations.png" alt="Description" width="250" height="530">
-
 ## License
 
 This project is licensed under the MIT License.
